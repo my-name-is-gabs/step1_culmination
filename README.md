@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# Planning my culmination
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Title of web app: **Louder**
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### Description
+
+This web app is a reviewer where the user will tell the answer through their mics. They also have the option to type the answer if they don't want to say the answer.
+
+### Features
+
+1. The app must have an authentication
+
+   - The registration must have these fields:
+     - first name (isSingleTextValid)
+     - last name (isSingleTextValid)
+     - email (isEmailValid)
+     - password (passwordValidation: must contain at least 8 characters)
+   - Login forms only contains the email and password
+
+2. The user can open the reviewer they created and listed all the terms and terminologies in a card view.
+3.

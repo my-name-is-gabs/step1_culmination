@@ -1,14 +1,10 @@
 <template>
-  <puppy-company></puppy-company>
+  <h1>This is from app</h1>
 </template>
 
 <script>
-import PuppyCompany from './components/PuppyCompany.vue'
-
 export default {
   name: 'App',
-  components: {
-    PuppyCompany,
-  },
+  components: {},
 }
 </script>
